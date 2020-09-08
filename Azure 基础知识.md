@@ -74,6 +74,8 @@
 	- 商业智能：PaaS 提供了用于分析和挖掘数据的工具。
 3. **软件即服务 (SaaS)**：用户只需使用软件即可，不需要对软件的任何维护或管理工作负责 [Microsoft 365]。
 
-![5-layer-diagram](C:\Users\hnist\Desktop\MSCAF\5-layer-diagram.png)
+![5-layer-diagram](https://github.com/Lingggao/MSCAF/blob/master/5-layer-diagram.png?raw=true)
 
 ## 二、创建 Azure 帐户
+
+// 针不辍
