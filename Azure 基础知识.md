@@ -285,3 +285,10 @@
 
 :four: **负载均衡器**：在池中的每个系统之间平均分配流量，可实现在不中断服务的情况下运行维护任务。
 
+![3-azure-load-balancer](https://github.com/Lingggao/MSCAF/blob/master/3-azure-load-balancer.png?raw=true)
+
+:five: **Azure 应用程序网关**：专为 Web 应用程序设计的负载均衡器，在传输级别 (TCP) 工作。
+
+:six: **内容分发网络 (CDN)**：高效地向用户分发 Web 内容的分布式服务器网络。
+
+:seven: **Azure 流量管理器**：使用最邻近用户的 DNS 服务器将用户流量定向到全球分布的终结点。
